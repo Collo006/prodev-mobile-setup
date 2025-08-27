@@ -10,6 +10,7 @@ export default function Index() {
       }}
     >
       <Text>First App Created</Text>
+      <Text>Booger AIDS</Text>
     </View>
   );
 }
