@@ -88,7 +88,7 @@ export default function Index() {
        </View>
        <View style={styles.textGroup}>
         <Text style={styles.textLarge}>Find your favorite place here</Text>
-        <Text style={styles.textSmall}>The best prices for over 2</Text>
+        <Text style={styles.textSmall}>The best prices for over 2 </Text>
         <Text style={styles.textSmall}>million properties worldwide</Text>
        </View>
        <View style={styles.buttonGroup}>
