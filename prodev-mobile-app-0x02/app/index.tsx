@@ -1,5 +1,5 @@
-import { Text, View, ImageBackground, StyleSheet, Dimensions, Image, TouchableOpacity} from "react-native";
-import { SafeAreaView, SafeAreaProvider} from "react-native-safe-area-context";
+import { Text, View, ImageBackground, StyleSheet, Dimensions, Image, TouchableOpacity, SafeAreaView} from "react-native";
+import { SafeAreaProvider } from "react-native-safe-area-context";
 
 const styles = StyleSheet.create({
 container:{
