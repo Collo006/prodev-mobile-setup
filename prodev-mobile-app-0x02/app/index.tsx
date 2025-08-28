@@ -99,6 +99,9 @@ export default function Index() {
           <Text style={styles.textSmall}>Sign In</Text>
         </TouchableOpacity>
        </View>
+       <View style={{alignItems:"center", paddingVertical:20}}>
+        <Text style={{color:"white"}}>Continue to home</Text>
+       </View>
         </ImageBackground>
       </SafeAreaView>
     </SafeAreaProvider>
